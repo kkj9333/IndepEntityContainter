@@ -2,7 +2,7 @@
   "configurations": [
     {
       "name": "Release",
-      "generator": "Visual Studio 17 2022 Win64",
+      "generator": "Visual Studio 17 2022",
       "configurationType": "Release",
       "inheritEnvironments": [ "msvc_x64_x64" ],
       "buildRoot": "${projectDir}\\out\\build\\${name}",

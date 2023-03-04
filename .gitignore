@@ -38,3 +38,12 @@ out
 
 # Jetbrains IDEs
 .idea
+
+# Visual Studio related
+/.vs
+/CMakeSettings.json
+/out
+
+# Visual Studio Code related
+/.vscode
+/build
