@@ -1,5 +1,8 @@
-# LiteLoaderBDS C++ Plugin Template
+# IndepEntityContainer
 
+- OPs use stick to attack an entity with containercomponent to set an IndepEntity;
+- OPs hold stick and click an IndepEntity to set default items;
+- OPs Sneak and attack it will reset items.
 The template repository for LiteLoaderBDS C++ plugin development.
 
 ## Usage
